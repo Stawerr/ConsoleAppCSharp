@@ -9,23 +9,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaPratica1a", "AulaPratic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3stringsMaior", "3stringsMaior\3stringsMaior.csproj", "{8AA1F1C3-081D-491A-A7C8-99F75689244D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vectorStringsBoolean", "vectorStringsBoolean\vectorStringsBoolean.csproj", "{16F06393-3F84-46A7-BC4B-0E0F88240644}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vectorStringsBoolean", "vectorStringsBoolean\vectorStringsBoolean.csproj", "{16F06393-3F84-46A7-BC4B-0E0F88240644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaVetorStrings", "SomaVetorStrings\SomaVetorStrings.csproj", "{EAEB0C8E-F97F-4472-891C-2D7378F45D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SomaVetorStrings", "SomaVetorStrings\SomaVetorStrings.csproj", "{EAEB0C8E-F97F-4472-891C-2D7378F45D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vetorStringSubstituiPalavra", "vetorStringSubstituiPalavra\vetorStringSubstituiPalavra.csproj", "{11DFCF03-D254-4C15-9966-87B535433211}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vetorStringSubstituiPalavra", "vetorStringSubstituiPalavra\vetorStringSubstituiPalavra.csproj", "{11DFCF03-D254-4C15-9966-87B535433211}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funcaoStringSubstituiNumeros", "funcaoStringSubstituiNumeros\funcaoStringSubstituiNumeros.csproj", "{EC7165CE-7376-4863-AEAD-0184DF803A2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "funcaoStringSubstituiNumeros", "funcaoStringSubstituiNumeros\funcaoStringSubstituiNumeros.csproj", "{EC7165CE-7376-4863-AEAD-0184DF803A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetornaStringseNaotiverNrs", "RetornaStringseNaotiverNrs\RetornaStringseNaotiverNrs.csproj", "{BAF83219-7FAC-4B11-A9D4-84D6B3C823FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetornaStringseNaotiverNrs", "RetornaStringseNaotiverNrs\RetornaStringseNaotiverNrs.csproj", "{BAF83219-7FAC-4B11-A9D4-84D6B3C823FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "index0stringcompare", "index0stringcompare\index0stringcompare.csproj", "{C466B7BA-283E-47B5-A875-A0AD8FC3CE36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "index0stringcompare", "index0stringcompare\index0stringcompare.csproj", "{C466B7BA-283E-47B5-A875-A0AD8FC3CE36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenarVetorAlfabeticamente", "OrdenarVetorAlfabeticamente\OrdenarVetorAlfabeticamente.csproj", "{59C190EA-9200-4F6C-A316-D2BD80E9DBFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrdenarVetorAlfabeticamente", "OrdenarVetorAlfabeticamente\OrdenarVetorAlfabeticamente.csproj", "{59C190EA-9200-4F6C-A316-D2BD80E9DBFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogoAdivinhas", "jogoAdivinhas\jogoAdivinhas.csproj", "{8CB22843-A575-4B6D-A236-C79C3289246F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jogoAdivinhas", "jogoAdivinhas\jogoAdivinhas.csproj", "{8CB22843-A575-4B6D-A236-C79C3289246F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPalidromo", "StringPalidromo\StringPalidromo.csproj", "{728783EE-FA85-420B-8093-422D76357A16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPalidromo", "StringPalidromo\StringPalidromo.csproj", "{728783EE-FA85-420B-8093-422D76357A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FicheirosFT2", "FicheirosFT2\FicheirosFT2.csproj", "{A0AC6B7C-88FF-42F4-AC17-75BBB032A96B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{728783EE-FA85-420B-8093-422D76357A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{728783EE-FA85-420B-8093-422D76357A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{728783EE-FA85-420B-8093-422D76357A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AC6B7C-88FF-42F4-AC17-75BBB032A96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AC6B7C-88FF-42F4-AC17-75BBB032A96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AC6B7C-88FF-42F4-AC17-75BBB032A96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AC6B7C-88FF-42F4-AC17-75BBB032A96B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
